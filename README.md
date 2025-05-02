@@ -1,2 +1,2 @@
 # linc_sdl
-SDL3 for Haxe
+SDL3 for Haxe (C++)
